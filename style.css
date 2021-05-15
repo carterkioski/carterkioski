@@ -1,0 +1,26 @@
+  /* Style the links inside the navigation bar */
+  .topnav a {
+  
+    float: center;
+    background-color: lightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  body{
+    float: center;
+  }
+  #title-page{
+    padding-left: 30%;
+    font-size: 21px;
+    max-width: 75%;
+    text-align: center;
+
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+  }
